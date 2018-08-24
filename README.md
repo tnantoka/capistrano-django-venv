@@ -3,7 +3,7 @@
 ## Installation
 
 ```ruby
-gem 'capistrano-django-venv'
+gem 'capistrano-django-venv', github: 'tnantoka/capistrano-django-venv'
 ```
 
 ## Usage
